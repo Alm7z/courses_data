@@ -960,7 +960,7 @@
 
         {
           "name": "Физика",
-          "description": "TODO",
+          "description": "Изучение основ физики",
           "teacher": "Мутыгуллина",
           "image_url": "https://img.icons8.com/metro/1600/physics.png",
           "todos": [
