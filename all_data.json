@@ -350,23 +350,48 @@
       "block_in_sem_num": 1,
       "courses": [
         {
-          "name": "Введение в ИИ (Таланов/Кириллович)",
-          "description": "TODO",
-          "teacher": "TODO_teacher",
-          "image_url": "",
+          "name": "Введение в ИИ",
+          "description": "Введение в ИИ",
+          "teacher": "Кириллович",
+          "image_url": "https://img.icons8.com/ios/1600/for-experienced.png",
           "todos": [
             {
-              "name": "TodoName",
+              "name": "Введение в семантику и Semantic Web",
               "description": "TodoDescription"
-            }
+            },
+            {
+              "name": "Формат представления данных RDF",
+              "description": "TodoDescription"
+            },
+            {
+              "name": "Формальные онтологии",
+              "description": "TodoDescription"
+            },
+            {
+              "name": "Язык описания онтологий OWL",
+              "description": "TodoDescription"
+            },
+            {
+              "name": "Язык запросов SPARQL",
+              "description": "TodoDescription"
+            },
+            {
+              "name": "Semantic Web в дикой природе: популярные ресурсы, онтологии и сервисы",
+              "description": "TodoDescription"
+            },
           ],
           "spells": [
             {
-              "name": "SpellName",
+              "name": "Основы изучения ИИ",
               "description": "SpellDescriptiion",
               "level": 3,
               "todo_names": [
-                "TodoName"
+                "Введение в семантику и Semantic Web",
+                "Формат представления данных RDF",
+                "Формальные онтологии",
+                "Язык описания онтологий OWL",
+                "Язык запросов SPARQL",
+                "Semantic Web в дикой природе: популярные ресурсы, онтологии и сервисы"
               ]
             }
           ]
