@@ -147,22 +147,111 @@
         },
         {
           "name": "Введение в разработку моб.приложений (IOS)",
-          "description": "TODO",
-          "teacher": "TODO_teacher",
-          "image_url": "",
+          "description": "Обучение разработке мобильных приложений под iOS",
+          "teacher": "Шахова И.С.",
+          "image_url": "https://cdn0.iconfinder.com/data/icons/flat-round-system/512/iOS-512.png",
           "todos": [
             {
-              "name": "TodoName",
-              "description": "TodoDescription"
+              "name": "Cинтаксис, построение структур на языке Swift",
+              "description": "Изучение Swift и iOS с нуля."
+            },
+            {
+              "name": "Работа со сторибордом",
+              "description": "Работа со сторибордом"
+            },
+            {
+              "name": "UITableView/Controller",
+              "description": "Работу с табличным видом в iOS, а именно с UITableView/Controller"
+            },
+            {
+              "name": "Auto-Layouts, паттерн MVC",
+              "description": "Auto-Layouts, паттерн MVC"
+            },
+            {
+              "name": "UIAlerts",
+              "description": "Передачу данных между контроллерами и то, для чего нам могут понадобиться делегаты протоколов, как передавать с помощью них данные/экшены"
+            },
+            {
+              "name": "Работа с блоками",
+              "description": "Работа с блоками в Swift"
+            },
+            {
+              "name": "UICollectionView",
+              "description": "UICollectionView"
+            },
+            {
+              "name": "Работа с потоками",
+              "description": "Работа с потоками в iOS"
+            },
+            {
+              "name": "Хранение данных в iOS",
+              "description": "Способ хранения в PropertyList, а так же как хранить с помощью NSCoding + UserDefaults."
+            },
+            {
+              "name": "Generic",
+              "description": "Generic методы, поля и использование их с классами, структурами"
+            },
+            {
+              "name": "FMDB",
+              "description": "Работа с FMDB"
+            },
+            {
+              "name": "Core Data",
+              "description": "Работа с Core Data"
+            },
+            {
+              "name": "Интеграция запросов в сеть",
+              "description": "Интеграция запросов в сеть к VK-Api"
+            },
+            {
+              "name": "SDWebImage и NSCache",
+              "description": "Работа с SDWebImage и NSCache"
+            },
+            {
+              "name": "SOLID и UIGetstures",
+              "description": "Основы проектирования SOLID и работа с жестами"
+            },
+            {
+              "name": "UI/Unit тестирование",
+              "description": "Что и для чего это нужно, какие есть подходы, как тестировать слой сети, асинхронщина"
+            },
+            {
+              "name": "Кастомные анимации",
+              "description": "Создание своих кастомных анимаций"
             }
           ],
           "spells": [
             {
-              "name": "SpellName",
+              "name": "Основы Swift",
               "description": "SpellDescriptiion",
               "level": 3,
               "todo_names": [
-                "TodoName"
+                "Cинтаксис, построение структур на языке Swift",
+                "Работа со сторибордом",
+                "UITableView/Controller",
+                "UICollectionView",
+              ]
+            },
+            {
+              "name": "Работа с базами данных в iOS",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "Хранение данных в iOS",
+                "Generic",
+                "FMDB",
+                "Core Data",
+                "Интеграция запросов в сеть",
+                "SDWebImage и NSCache",
+              ]
+            },
+            {
+              "name": "Знание паттернов",
+              "description": "SpellDescriptiion3",
+              "level": 2,
+              "todo_names": [
+                "SOLID и UIGetstures",
+                "UI/Unit тестирование"
               ]
             }
           ]
