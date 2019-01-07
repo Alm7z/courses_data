@@ -1,0 +1,1213 @@
+{
+  "blocks": [
+
+
+
+
+
+
+
+
+    {
+      "name": "Семестр 3 Блок 1",
+      "sem_num": 3,
+      "block_in_sem_num": 1,
+      "courses": [
+        {
+          "name": "Введение в веб-программирование (Django)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Введение в веб-программирование (Javascript)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Введение в веб-программирование (Ruby)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Введение в разработку корпоративных систем (Java)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Введение в разработку корпоративных систем (NET)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Введение в разработку моб.приложений (Android)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Введение в разработку моб.приложений (IOS)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Введение в С++ (ЛИРС)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Основы компьютерной графики и графические форматы (DML)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Основы Linux",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "Семестр 4 Блок 1",
+      "sem_num": 4,
+      "block_in_sem_num": 1,
+      "courses": [
+        {
+          "name": "Введение в ИИ (Таланов/Кириллович)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Введение в ИИ в комп.играх (DML)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Введение в робототехнику",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Машинное обучение (Введение в ИИ) -42 лаб.",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Методы оптимизации",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "Семестр 4 Блок 2",
+      "sem_num": 4,
+      "block_in_sem_num": 2,
+      "courses": [
+        {
+          "name": "Веб-программирование (Django)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Веб-программирование (Ruby)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Основы PHP-42 лаб.(Веб.программирование)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Программирование на С++",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Разработка корпоративных систем (Java)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Разработка корпоративных систем (NET)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Разработка моб.приложений (IOS)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Разработка мобильных приложений (Android)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Сервисы Linux",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Цифровая живопись (DML)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "Семестр 5 Блок 1",
+      "sem_num": 5,
+      "block_in_sem_num": 1,
+      "courses": [
+        {
+          "name": "Анализ данных (Конкретная математика-Лернер Э.)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+          "name": "Анализ данных (Новиков А.)",
+          "description": "Курс по анализу данных на python.",
+          "teacher": "Новиков",
+          "image_url": "https://www.iconfinder.com/icons/2400518/download/png/512",
+          "todos": [
+            {
+              "name": "Установить python и библиотеки",
+              "description": "Установить python, PyCharm(по желанию), библиотеки: pandas, numpy, sklearn, matplotlib, networkx."
+            },
+            {
+              "name": "Изучить основы python",
+              "description": "Изучить основы python: синтаксис, методы, переменные..."
+            },
+            {
+              "name": "Объединить несколько таблиц",
+              "description": "В нескольких таблицах данные по работникам предприятия. Форматы таблиц отличаются. Некоторые данные отсутствуют. Необходимо объединить все в одну таблицу."
+            },
+            {
+              "name": "Построить структуру отделов предприятия",
+              "description": "По объединенной таблице построить структуру предприятия, визуализировать в виде графа."
+            },
+            {
+              "name": "Построить по данным линейную и полиномиальную регрессию",
+              "description": "Файлы на Гугл диске."
+            },
+            {
+              "name": "Построить по данным логистическую регрессию",
+              "description": "Файлы на Гугл диске."
+            },
+            {
+              "name": "Построить по данным ядерную регрессию",
+              "description": "Файлы на Гугл диске."
+            },
+            {
+              "name": "Презентация проекта",
+              "description": "Подготовить презентацию командного проекта, который вы будете делать в следующем семестре."
+            }
+          ],
+          "spells": [
+            {
+              "name": "Основы python",
+              "description": "Cинтаксис, методы, переменные...",
+              "level": 1,
+              "todo_names": [
+                "Установить python и библиотеки",
+                "Изучить основы python"
+              ]
+            },
+            {
+              "name": "pandas",
+              "description": "Основы pandas",
+              "level": 1,
+              "todo_names": [
+                "Объединить несколько таблиц"
+              ]
+            },
+            {
+              "name": "networkx",
+              "description": "Построение простых графов с помощью networkx",
+              "level": 1,
+              "todo_names": [
+                "Построить структуру отделов предприятия"
+              ]
+            },
+            {
+              "name": "numpy",
+              "description": "Основы numpy",
+              "level": 1,
+              "todo_names": [
+                "Построить по данным линейную и полиномиальную регрессию",
+                "Построить по данным логистическую регрессию",
+                "Построить по данным ядерную регрессию"
+              ]
+            },
+            {
+              "name": "sklearn: Кластеризация и построение регрессии",
+              "description": "Кластеризация и построение линейной, полиномиальной, логистической, ядерной регрессии",
+              "level": 1,
+              "todo_names": [
+                "Построить структуру отделов предприятия",
+                "Построить по данным линейную и полиномиальную регрессию",
+                "Построить по данным логистическую регрессию",
+                "Построить по данным ядерную регрессию"
+              ]
+            }
+          ]
+        },
+
+
+
+
+
+
+
+
+        {
+          "name": "Вычислительные эмоции (Прикладное машинное обучение-Сагитов А.)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+
+        {
+          "name": "Интеллект.обуч.системы (Марченко)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+          "name": "Физика",
+          "description": "TODO",
+          "teacher": "Мутыгуллина",
+          "image_url": "https://gravatar.com/avatar",
+          "todos": [
+            {
+              "name": "TodoName4",
+              "description": "TodoDescription4"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName4",
+              "description": "SpellDescriptiion4",
+              "level": 1,
+              "todo_names": [
+                "TodoName4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "name": "Семестр 5 Блок 2",
+      "sem_num": 5,
+      "block_in_sem_num": 2,
+      "courses": [
+        {
+          "name": "Арх.в веб разр. (13 навыков аналитика Барс груп-Чиркова)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Арх.в веб разработке (LAMP-Ференец)",
+          "description": "TODO",
+          "teacher": "Ференец",
+          "image_url": "https://www.iconfinder.com/icons/315884/download/png/512",
+          "todos": [
+            {
+              "name": "Установить Ubuntu/аналогичную Linux-систему",
+              "description": "Установить Ubuntu или аналогичную Linux-систему, изучить основы работы с bash-оболочкой, скриптами."
+            },
+            {
+              "name": "Изучить основы PHP",
+              "description": "Изучить основы PHP: синтаксис, типы переменных, неявное приведение и сравнение. ООП."
+            },
+            {
+              "name": "Изучить HTTP, cURL", 
+              "description": "Файлы на google disk."
+            },
+            {
+              "name": "ПО сервера, составляющие веб-приложения, схема получения документа браузером. Настройка окружения.", 
+              "description": "Файлы на google disk."
+            },
+            {
+              "name": "Формы и их обработка в PHP. Работа с кодированием. Работа в терминале Ubuntu.",
+              "description": "Файлы на google disK."
+            },
+            {
+              "name": "Запуск скриптов. Константы. Composer и PSR-4.",
+              "description": "Запуск скриптов(интерактивная консоль, модуль PHP Apache, CGI, Fast CGI). Константы. Операторы включения других скриптов в текущий. Composer и PSR-4."
+            },
+            {
+              "name": "Предопределенные переменные. Предопределенные константы. Работа с файлами.",
+              "description": "Файлы на google disK."
+            },
+            {
+              "name": "Cookie. Сессии.", 
+              "description": "Принципы работы c ними в PHP,"
+            },
+            {
+              "name": "Регулярные выражения. E-mail.",
+              "description": "Работа с рег. выражениями в PHP. Принципы работы электронной почты. Структура типичного e-mail. Отправка e-mail в PHP."
+            },
+            {
+              "name": "Форматы сериализации данных в файлы.",
+              "description": "INI, CSV, JSON, PHP serialization, XML."
+            },
+            {
+              "name": "MVC. SOLID. IoC-контейнер.", 
+              "description": "Реализация на PHP c фронт-контролером. Другие популярные шаблоны проектирования и их реализация в PHP."
+            },
+            {
+              "name": "SQL. СУБД в PHP", 
+              "description": "SQL: основы синтаксиса, типы столбцов, объединения. Работа с СУБД в PHP(mysqli / PDO)."
+            }
+          ],
+          "spells": [
+            {
+              "name": "Основы Ubuntu и PHP",    
+              "description": "Ubuntu: команды, PHP: синтаксис, типы переменных, неявное приведение и сравнение, ООП.",
+              "level": 3,
+              "todo_names": [
+                "Установить Ubuntu или аналогичную Linux-систему",
+                "Изучить основы работы с bash-оболочкой и скриптами",
+                "Изучить основы PHP"
+              ]
+            },
+            {
+              "name": "HTTP, cURL, ПО сервера, Формы и их обработка в PHP, терминал Ubuntu.",
+              "description": "ПО сервера, составляющие веб-приложения, схема получения документа браузером.",
+              "level": 3,
+              "todo_names": [
+                "Изучить HTTP, cURL",
+                "Настройка окружения",
+                "Работа с кодировками",
+                "Работа в терминале Ubuntu"
+              ]
+            },
+            {
+              "name": "Запуск скриптов. Константы. Composer и PSR-4. Предопределенные переменные и константы. Работа с файлами.",             
+              "description": "Запуск скриптов(интерактивная консоль, модуль PHP Apache, CGI, Fast CGI). Константы. Операторы включения других скриптов в текущий. Composer и PSR-4. Предопределенные константы и переменные.",
+              "level": 3,
+              "todo_names": [
+                "Запуск скриптов",
+                "Composer и PSR-4",
+                "Работа с файлами"
+              ]
+            },
+            {
+              "name": "Cookie и Сессии",  
+              "description": "Принципы их работы",
+              "level": 3,
+              "todo_names": [
+                "Работа с Cookie в PHP",
+                "Работа с Сессией в PHP"
+              ]
+            },
+            {
+              "name": "Регулярные выражения, E-mail, форматы сериализации данных в файлы.", 
+              "description": "Работа с регулярными выражениями и e-mail. INI, CSV, JSON, PHP serialization, XML.",
+              "level": 3,
+              "todo_names": [
+                "Работа с регулярными выражениями в PHP",
+                "Принципы работы с электронной почтой",
+                "Структура типичного e-mail",
+                "Отправка e-mail в PHP",
+                "Форматы сериализации"
+              ]
+            },
+            {
+              "name": "Шаблоны ппоектирования и основы SQL",   
+              "description": "MVC. SOLID. IoC-контейнер. SQL. СУБД в PHP.",
+              "level": 3,
+              "todo_names": [
+                "Реализация на PHP c фронт-контролером",
+                "Работа с СУБД в PHP(mysqli / PDO)."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Архитектуры в веб-разработке (Продвинутый PHP._Кошарский)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Основы разработки на Unity3D (костюк Д.)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Разработка моб.приложений.Доп.главы",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Сервисы Linux (Валиуллин)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Технологии Java (Сидиков М.)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Технологии NET (Аршинов М.)",
+          "description": "TODO",
+          "teacher": "TODO_teacher",
+          "image_url": "",
+          "todos": [
+            {
+              "name": "TodoName",
+              "description": "TodoDescription"
+            }
+          ],
+          "spells": [
+            {
+              "name": "SpellName",
+              "description": "SpellDescriptiion",
+              "level": 3,
+              "todo_names": [
+                "TodoName"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ],
+  "teachers": [
+    {
+      "name": "Новиков",
+      "login": "novikov",
+      "password": "pass111"
+    },
+    {
+      "name": "Мутыгуллина",
+      "login": "mutygullina",
+      "password": "pass111"
+    },
+    {
+      "name": "TODO_teacher",
+      "login": "todo_teacher",
+      "password": "pass111"
+    }
+  ]
+}
