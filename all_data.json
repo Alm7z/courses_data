@@ -17,7 +17,7 @@
           "name": "Введение в веб-программирование (Django)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -39,7 +39,7 @@
           "name": "Введение в веб-программирование (Javascript)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -125,7 +125,7 @@
           "name": "Введение в разработку корпоративных систем (Java)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -147,7 +147,7 @@
           "name": "Введение в разработку корпоративных систем (NET)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -169,7 +169,7 @@
           "name": "Введение в разработку моб.приложений (Android)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -302,7 +302,7 @@
           "name": "Введение в С++ (ЛИРС)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -324,7 +324,7 @@
           "name": "Основы компьютерной графики и графические форматы (DML)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -346,7 +346,7 @@
           "name": "Основы Linux",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -442,7 +442,7 @@
           "name": "Введение в ИИ в комп.играх (DML)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -464,7 +464,7 @@
           "name": "Введение в робототехнику",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -486,7 +486,7 @@
           "name": "Машинное обучение (Введение в ИИ) -42 лаб.",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -508,7 +508,7 @@
           "name": "Методы оптимизации",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -559,7 +559,7 @@
           "name": "Веб-программирование (Django)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -581,7 +581,7 @@
           "name": "Веб-программирование (Ruby)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -603,7 +603,7 @@
           "name": "Основы PHP-42 лаб.(Веб.программирование)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -625,7 +625,7 @@
           "name": "Программирование на С++",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -647,7 +647,7 @@
           "name": "Разработка корпоративных систем (Java)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -669,7 +669,7 @@
           "name": "Разработка корпоративных систем (NET)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -691,7 +691,7 @@
           "name": "Разработка моб.приложений (IOS)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -713,7 +713,7 @@
           "name": "Разработка мобильных приложений (Android)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -735,7 +735,7 @@
           "name": "Сервисы Linux",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -757,7 +757,7 @@
           "name": "Цифровая живопись (DML)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -802,7 +802,7 @@
           "name": "Анализ данных (Конкретная математика-Лернер Э.)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -944,7 +944,7 @@
           "name": "Вычислительные эмоции (Прикладное машинное обучение-Сагитов А.)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -967,7 +967,7 @@
           "name": "Интеллект.обуч.системы (Марченко)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -1149,7 +1149,7 @@
           "name": "Арх.в веб разр. (13 навыков аналитика Барс груп-Чиркова)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -1283,7 +1283,7 @@
           "name": "Архитектуры в веб-разработке (Продвинутый PHP._Кошарский)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -1305,7 +1305,7 @@
           "name": "Основы разработки на Unity3D (костюк Д.)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -1327,7 +1327,7 @@
           "name": "Разработка моб.приложений.Доп.главы",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -1349,7 +1349,7 @@
           "name": "Сервисы Linux (Валиуллин)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -1371,7 +1371,7 @@
           "name": "Технологии Java (Сидиков М.)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
@@ -1393,7 +1393,7 @@
           "name": "Технологии NET (Аршинов М.)",
           "description": "TODO",
           "teacher": "TODO_teacher",
-          "image_url": "",
+          "image_url": "https://gravatar.com/avatar",
           "todos": [
             {
               "name": "TodoName",
